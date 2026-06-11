@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px;
+    background-color: brown;
+    color: white;
+}
+
+
+.links {
+    display: flex;
+    gap: 20px;
+}
