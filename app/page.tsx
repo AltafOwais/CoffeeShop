@@ -36,10 +36,11 @@ export default function Home() {
 
         <Image
           src="/Coffee.png"
-          alt="Coffee"
-          width={500}
-          height={300}
+          width={800}
+          height={400}
           className="coffeeImage"
+          alt="coffee"
+          priority
         />
 
 
