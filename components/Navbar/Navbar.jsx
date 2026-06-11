@@ -17,7 +17,7 @@ export default function Navbar() {
           Home
         </Link>
 
-        <Link href="/Menu">
+        <Link href="/menu">
           Menu
         </Link>
 
